@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\e5612209\Desktop\userswin\userswin\server.cpp(19,31): warning C4129: 'l': unrecognized character escape sequence
+C:\Users\e5612209\Desktop\userswin\userswin\server.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+  userswin.vcxproj -> C:\Users\e5612209\Desktop\userswin\Debug\userswin.exe
